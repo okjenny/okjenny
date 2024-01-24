@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Pronouns : She/Her
-## How to reach me : jenniferalopez04@gmail.com
+## How to reach me : jalopezsalazar@ucdavis.edu
 Fun Fact : I can do a hand stand 
 
 <!--
