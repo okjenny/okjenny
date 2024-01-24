@@ -1,6 +1,6 @@
 ### Hi there 👋
-# Pronouns : She/Her
-# How to reach me : jenniferalopez04@gmail.com
+## Pronouns : She/Her
+## How to reach me : jenniferalopez04@gmail.com
 Fun Fact : I can do a hand stand 
 
 <!--
